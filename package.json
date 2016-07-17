@@ -1,0 +1,16 @@
+{
+  "name": "hyperterm-tomorrow-night",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ngs/hyperterm-tomorrow-theme-generator.git"
+  },
+  "author": "Atsushi Nagase <a@ngs.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngs/hyperterm-tomorrow-theme-generator/issues"
+  },
+  "homepage": "https://github.com/ngs/hyperterm-tomorrow-theme-generator#readme"
+}
