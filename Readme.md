@@ -8,7 +8,7 @@ hyperterm-tomorrow-night
 How to use
 ----------
 
-Add `hyperterm-tomorrow-night` to `plugins` in ``~/.hyperterm.js`.
+Add `hyperterm-tomorrow-night` to `plugins` in `~/.hyperterm.js`.
 
 [Hyperterm]: https://hyperterm.org/
 [Tomorrow Night theme]: https://github.com/chriskempson/tomorrow-theme#tomorrow-night
